@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "174898962501",
+    "firebase_url": "https://best-jokes-b5a0a.firebaseio.com",
+    "project_id": "best-jokes-b5a0a",
+    "storage_bucket": "best-jokes-b5a0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174898962501:android:f56cb246717383ff14832c",
+        "android_client_info": {
+          "package_name": "app.bestjokes.af"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174898962501-aliqc46pm66tucdo86a55hlq24th0m8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVm7tTyGIHAsMN1i_t_iaIy4oxzY1qOt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174898962501-aliqc46pm66tucdo86a55hlq24th0m8d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
